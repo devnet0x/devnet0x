@@ -13,10 +13,10 @@
 -	Ethernaut
 -	CaptureTheEther
 
-## Ethereum Dapps (on goerli) 📫 ##
+## Ethereum Web3 Dapps (on goerli) 📫 ##
 -	DAO w/ERC1155 published in UniswapV3 (link)
 
-## Solana Dapps (on devnet) 📫 ##
+## Solana Web3 Dapps (on devnet) 📫 ##
 
 ## Contributions 🎓 ##
 
