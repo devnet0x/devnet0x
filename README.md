@@ -4,23 +4,23 @@
 -	Secureum Defi A-Maze-X[(writeup)](https://github.com/devnet0x/Blockchain/tree/master/ChallengesCTF/A-maze-x)
 -	Damn Vulnerable Defi with Foundry[(writeup)](https://github.com/devnet0x/Blockchain/tree/master/ChallengesCTF/DVDF_Foundry)
 
-## Smart Contract CTF Solutions 📫 ##
+## Smart Contract CTF Solutions :construction_worker: ##
 -	Ethernaut[(link)](https://github.com/devnet0x/Blockchain/tree/master/ChallengesCTF/Ethernaut)
 -	CaptureTheEther[(link)](https://github.com/devnet0x/Blockchain/tree/master/ChallengesCTF/CaptureTheEther)
 
-## Smart Contract Dev Challenges 🔭 ##
+## Smart Contract Dev Challenges :mountain: ##
 - Starknet Messaging Bridge[(writeup)](https://github.com/devnet0x/Blockchain/tree/master/Cairo/starknet_messaging_bridge)
 -	Starknet-Cairo-101
 -	Starknet-ERC721
 
-## Ethereum Web3 Dapps (on goerli) 📫 ##
+## Ethereum Web3 Dapps (on goerli) :spider_web: ##
 -	DAO w/ERC1155 published in UniswapV3[(link)](https://jpdao.vercel.app/)
 
 ## Solana Web3 Dapps (on devnet) 📫 ##
 - Solana Gif Account Records[(link)](https://gifportal-ashen.vercel.app/)
 - Solana NFT Drop[(link)](https://jpdrop.vercel.app/)
 
-## Contributions 🎓 ##
+## Contributions :crown: ##
 -	Damn Vulnerable Defi with Foundry[(link)](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry/graphs/contributors)
 -	Secureum A-Maze-X Defi CTF[(link)](https://github.com/secureum/DeFi-Security-Summit-Stanford/graphs/contributors)
 
