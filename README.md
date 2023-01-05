@@ -25,7 +25,7 @@
 -	Secureum A-Maze-X Defi CTF[(link)](https://github.com/secureum/DeFi-Security-Summit-Stanford/graphs/contributors)
 
 ## Bootcamps/Workshops 🎓 ##
--	Starknet Bootcamp Cohort 2
+-	Starknet Bootcamp
 -	Solana Smart Contracts Intro
 -	ZK rollups, Introduction to Cairo and Starknet
 -	Defi Programming Introduction 
