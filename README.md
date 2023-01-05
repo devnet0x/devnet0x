@@ -36,7 +36,7 @@
 ## Training 🎓 ##
 
 -	Advanced Solidity: Yul and Assembly 
--	Ethereum Solidity Course (2 months) 
+-	Ethereum Solidity Course
 -	Mining Rig Building
 -	Crypto Trading
 - 6 months Blockchain Diplomated
