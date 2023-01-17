@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Juan, please visit my portfolio and i hope you can find something that can help you on your way to the moon...:)
+### Hi there 👋 my name is Juan, please visit my repos and i hope you can find something that can help you on your way to the moon...:)
 
 ## Smart Contract CTF Writeups :dart: ##
 -	Secureum Defi A-Maze-X[(writeup)](https://github.com/devnet0x/Blockchain/tree/master/ChallengesCTF/A-maze-x)
