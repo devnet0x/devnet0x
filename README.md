@@ -2,6 +2,7 @@
 
 ## Starknet Security Challenges :pirate_flag: ##
 -	A web3 dapp builded by myself with challenges migrated from solidity to cairo (and a leaderboard..:)([link](https://starknet-challenges.vercel.app/))
+-	Please contribute with your own challenges in [this repo](https://github.com/devnet0x/Starknet-Security-Challenges-Repo)
 
 ## Smart Contract CTF Writeups :dart: ##
 -	Secureum Defi A-Maze-X[(writeup)](https://github.com/devnet0x/Blockchain/tree/master/ChallengesCTF/A-maze-x)
