@@ -5,6 +5,7 @@
 -	Please contribute with your own challenges in [this repo](https://github.com/devnet0x/Starknet-Security-Challenges-Repo)
 -	Published as Starknet Ecosystem Dapp ([link](https://www.starknet-ecosystem.com/projects/1750c340-6dfa-4207-b973-0948e183a8d7))
 -	How to solve challenges (Since min 16 [Youtube](https://www.youtube.com/watch?v=T-h41OMx2xo))
+-	ERC1155 NFT collection rewards for challenges completes (they worth nothing, just for fun) ([link](https://mintsquare.io/collection/starknet-testnet/0x007d85f33b50c06d050cca1889decca8a20e5e08f3546a7f010325cb06e8963f))
 
 ## Smart Contract CTF Writeups :dart: ##
 -	Secureum Defi A-Maze-X[(writeup)](https://github.com/devnet0x/Blockchain/tree/master/ChallengesCTF/A-maze-x)
@@ -46,9 +47,9 @@
 -	Ethereum Solidity Course
 -	Mining Rig Building
 -	Crypto Trading
-- 6 months Blockchain Diplomated
+- 6 months Blockchain University Diplomated
 
-## Other source code examples🔭 ##
+## Other source code examples on this repo🔭 ##
 -	Chainlink (Random and Market Price)
 -	ERC20 token
 -	ERC721 nft
