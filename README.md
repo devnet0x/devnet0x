@@ -21,7 +21,7 @@
 -	Starknet-ERC721
 
 ## Starknet Tools ##
-- Shell for compile, declare and deploy with Protostar [(link)](https://github.com/devnet0x/Proto_build)
+- Bash shell for compile, declare and deploy [(link)](https://github.com/devnet0x/starknet_build)
 
 ## Ethereum Web3 Dapps (on goerli) :spider_web: ##
 -	DAO w/ERC1155 published in UniswapV3[(link)](https://jpdao.vercel.app/)
