@@ -33,6 +33,7 @@
 ## Contributions :crown: ##
 -	Damn Vulnerable Defi with Foundry[(link)](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry/graphs/contributors)
 -	Secureum A-Maze-X Defi CTF[(link)](https://github.com/secureum/DeFi-Security-Summit-Stanford/graphs/contributors)
+-	Staknet Book Security Considerations Chapter[(link)](https://github.com/starknet-edu/starknetbook/graphs/contributors)
 
 ## Bootcamps/Workshops 🎓 ##
 -	Starknet Bootcamp
