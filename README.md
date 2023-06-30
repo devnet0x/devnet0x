@@ -2,25 +2,26 @@
 
 ## Personal Projects :pirate_flag: ##
 -	Starknet Security Challenges: A web3 dapp with challenges migrated from solidity to cairo (and a leaderboard..:)([link](https://starknet-challenges.vercel.app/))
--	Please contribute with your own challenges in [this repo](https://github.com/devnet0x/Starknet-Security-Challenges-Repo)
+-	Please contribute with your own challenges in [this repo](https://github.com/devnet0x/Starknet-Security-Challenges-Factory/issues)
 -	Published as Starknet Ecosystem Dapp ([link](https://www.starknet-ecosystem.com/projects/1750c340-6dfa-4207-b973-0948e183a8d7))
 -	How to solve challenges (Since min 16 [Youtube](https://www.youtube.com/watch?v=T-h41OMx2xo))
 -	ERC1155 NFT collection rewards for challenges completes (they worth nothing, just for fun) ([link](https://mintsquare.io/collection/starknet-testnet/0x007d85f33b50c06d050cca1889decca8a20e5e08f3546a7f010325cb06e8963f))
 
-## Smart Contract CTF Writeups :dart: ##
+## Smart Contract CTF Writeups and Contributions :construction_worker: ##
 -	Secureum Defi A-Maze-X[(writeup)](https://github.com/devnet0x/Blockchain/tree/master/ChallengesCTF/A-maze-x)
 -	Damn Vulnerable Defi with Foundry[(writeup)](https://github.com/devnet0x/Blockchain/tree/master/ChallengesCTF/DVDF_Foundry)
-
-## Smart Contract CTF Solutions :construction_worker: ##
--	Ethernaut[(link)](https://github.com/devnet0x/Blockchain/tree/master/ChallengesCTF/Ethernaut)
--	CaptureTheEther[(link)](https://github.com/devnet0x/Blockchain/tree/master/ChallengesCTF/CaptureTheEther)
+-	Ethernaut[(solutions)](https://github.com/devnet0x/Blockchain/tree/master/ChallengesCTF/Ethernaut)
+-	CaptureTheEther[(soultions)](https://github.com/devnet0x/Blockchain/tree/master/ChallengesCTF/CaptureTheEther)
+-	Damn Vulnerable Defi with Foundry[(contribution)](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry/graphs/contributors)
+-	Secureum A-Maze-X Defi CTF[(contribution)](https://github.com/secureum/DeFi-Security-Summit-Stanford/graphs/contributors)
+-	Staknet Book Security Considerations Chapter[(contribution)](https://github.com/starknet-edu/starknetbook/graphs/contributors)
 
 ## Starknet Dev Challenges :mountain: ##
 - Starknet Messaging Bridge[(writeup)](https://github.com/devnet0x/Blockchain/tree/master/Cairo/starknet_messaging_bridge)
 -	Starknet-Cairo-101
 -	Starknet-ERC721
 
-## Starknet Tools ##
+## Builded Starknet Tools ##
 - Bash shell for compile, declare and deploy [(link)](https://github.com/devnet0x/starknet_build)
 
 ## Ethereum Web3 Dapps (on goerli) :spider_web: ##
@@ -29,11 +30,6 @@
 ## Solana Web3 Dapps (on devnet) 📫 ##
 - Solana Gif Account Records[(link)](https://gifportal-ashen.vercel.app/)
 - Solana NFT Drop[(link)](https://jpdrop.vercel.app/)
-
-## Contributions :crown: ##
--	Damn Vulnerable Defi with Foundry[(link)](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry/graphs/contributors)
--	Secureum A-Maze-X Defi CTF[(link)](https://github.com/secureum/DeFi-Security-Summit-Stanford/graphs/contributors)
--	Staknet Book Security Considerations Chapter[(link)](https://github.com/starknet-edu/starknetbook/graphs/contributors)
 
 ## Bootcamps/Workshops 🎓 ##
 -	Starknet Bootcamp
