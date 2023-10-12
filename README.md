@@ -2,13 +2,15 @@
 
 ## Personal Projects :pirate_flag: ##
 -	Starknet Security Challenges: A web3 dapp with challenges migrated from solidity to cairo (and a leaderboard..:)([testnet link](https://starknet-challenges.vercel.app/))
-*	Please contribute in [this repo](https://github.com/devnet0x/Starknet-Security-Challenges-Factory/issues)
-*	Published as Starknet Ecosystem Dapp ([link](https://www.starknet-ecosystem.com/projects/1750c340-6dfa-4207-b973-0948e183a8d7))
-*	How to solve challenges (Since min 16 [Youtube](https://www.youtube.com/watch?v=T-h41OMx2xo))
-*	ERC1155 NFT collection rewards for challenges completes (they worth nothing, just for fun) ([link](https://mintsquare.io/collection/starknet-testnet/0x007d85f33b50c06d050cca1889decca8a20e5e08f3546a7f010325cb06e8963f))
+    * Please contribute in [this repo](https://github.com/devnet0x/Starknet-Security-Challenges-Factory/issues)
+    *	Published as Starknet Ecosystem Dapp ([link](https://www.starknet-ecosystem.com/projects/1750c340-6dfa-4207-b973-0948e183a8d7))
+    *	How to solve challenges (Since min 16 [Youtube](https://www.youtube.com/watch?v=T-h41OMx2xo))
+    *	ERC1155 NFT collection rewards for challenges completes (they worth nothing, just for fun) ([link](https://mintsquare.io/collection/starknet-testnet/0x007d85f33b50c06d050cca1889decca8a20e5e08f3546a7f010325cb06e8963f))
 
 - Starknet Homepage: This project pays homage to the infamous Million Dollar Homepage.([testnet link](https://starknet-homepage-kappa.vercel.app/))
 
+- Starknet Build: A bash shell for compile, declare and deploy [(link)](https://github.com/devnet0x/starknet_build)
+  
 ## Hackathons :trophy: ##
 - HackerEarth'20: A Python automated credit risk score. 
 - Starknet Hacker House San Francisco'23 : 5th place with Starknet Homepage (and NFT adds minter).
@@ -35,9 +37,6 @@
 -	Starknet-Account Abstraction[(link)](https://github.com/starknet-edu/starknet-accounts)
 -	Nodeguardians (Setting up Cairo)[(my solution)](https://github.com/devnet0x/ng-questplay/tree/main/campaigns/starting-cairo/build-tutorial-cairo/src)
 -	Nodeguardians (Thinking in Cairo)[(my solution)](https://github.com/devnet0x/ng-questplay/tree/main/campaigns/cairo-thinking/sparring-sorcerers/src)
-
-## Builded Starknet Tools ##
-- Bash shell for compile, declare and deploy [(link)](https://github.com/devnet0x/starknet_build)
 
 ## Ethereum Web3 Dapps (on goerli) :spider_web: ##
 -	DAO w/ERC1155 published in UniswapV3[(link)](https://jpdao.vercel.app/)
