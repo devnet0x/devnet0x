@@ -46,7 +46,7 @@
 - Solana NFT Drop[(link)](https://jpdrop.vercel.app/)
 
 ## Bootcamps/Workshops 🎓 ##
--	Starknet Bootcamp
+-	Starknet Bootcamp (cohort 2)
 -	Solana Smart Contracts Intro
 -	ZK rollups, Introduction to Cairo and Starknet
 -	Defi Programming Introduction 
