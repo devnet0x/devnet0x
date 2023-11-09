@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is Juan, please visit my repos and i hope you can find something that can help you on your way to the moon...:)
 
 ## Personal Projects :pirate_flag: ##
--	Starknet Security Challenges: A web3 dapp with challenges migrated from solidity to cairo (and a leaderboard..:)([testnet link](https://starknet-challenges.vercel.app/))
+-	Starknet Security Challenges: A web3 dapp with challenges migrated from solidity to cairo (and a leaderboard..:)([testnet link](https://starknet-security-challenges.app/))
     * Please contribute in [this repo](https://github.com/devnet0x/Starknet-Security-Challenges-Factory/issues)
     *	Published as Starknet Ecosystem Dapp ([link](https://www.starknet-ecosystem.com/projects/1750c340-6dfa-4207-b973-0948e183a8d7))
     *	How to solve challenges (Since min 16 [Youtube](https://www.youtube.com/watch?v=T-h41OMx2xo))
