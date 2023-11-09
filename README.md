@@ -18,10 +18,12 @@
 ## Contributions :construction_worker: ##
 - Damn Vulnerable Defi with Foundry[(contribution)](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry/commits?author=devnet0x)
 - Secureum A-Maze-X Defi CTF[(contribution)](https://github.com/secureum/DeFi-Security-Summit-Stanford/graphs/contributors)
-- Staknet Book Security Considerations Chapter[(contribution)](https://github.com/starknet-edu/starknetbook/commits?author=devnet0x)
-- Staknet Book fullstack web3 example with Cairo, React and Vercel.[(contribution)](https://book.starknet.io/ch02-07-01-00-erc20-ui.html)
+- Starknet Book Security Considerations Chapter[(contribution)](https://github.com/starknet-edu/starknetbook/commits?author=devnet0x)
+- Starknet Book fullstack web3 example with Cairo, React and Vercel.[(contribution)](https://book.starknet.io/ch02-07-01-00-erc20-ui.html)
+- Starknet Book Security tools and Considerations [(contribution)](https://github.com/starknet-edu/starknetbook/commits?author=devnet0x)
 - Kakarot (Fix deploy to test feature). [(contribution)](https://github.com/kkrt-labs/kakarot/commits?author=devnet0x)
 - Starknet Foundry (add delete account feature) [(contribution in Rust)](https://github.com/foundry-rs/starknet-foundry/pull/743)
+- Starknet Foundry (test for conversion crate) [(contribution in Rust)](https://github.com/foundry-rs/starknet-foundry/pull/944)
 
 ## Smart contract CTFs Completed :mountain: ##
 - Secureum Defi A-Maze-X[(writeup)](https://github.com/devnet0x/Blockchain/tree/master/ChallengesCTF/A-maze-x)
@@ -46,7 +48,7 @@
 - Solana NFT Drop[(link)](https://jpdrop.vercel.app/)
 
 ## Bootcamps/Workshops 🎓 ##
--	Starknet Bootcamp (cohort 2)
+-	Starknet Basecamp (cohort 2)
 -	Solana Smart Contracts Intro
 -	ZK rollups, Introduction to Cairo and Starknet
 -	Defi Programming Introduction 
@@ -59,6 +61,7 @@
 -	Mining Rig Building
 -	Crypto Trading
 - 6 months Blockchain University Diplomated
+- Advanced Cairo and ZK Proofs [(link)](https://www.zkp.ninja)
 
 ## Other source code examples on this repo🔭 ##
 -	Chainlink (Random and Market Price)
